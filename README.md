@@ -1,2 +1,2 @@
 # Chatbot-App
-A Chatbot app created using AIML.
+A very basic Chatbot app created using AIML.
